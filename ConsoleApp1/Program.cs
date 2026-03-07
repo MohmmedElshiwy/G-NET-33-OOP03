@@ -68,6 +68,27 @@ namespace ConsoleApp1
             #endregion
 
 
+            #region //Part 02 : Practical (Extending the Movie Ticket Booking System)
+
+            //Cinema cinema = new Cinema("Galaxy Cinema");
+            //cinema.OpenCinema();
+
+            //var standard = new StandardTicket("Spider-Man", 120, "A5");
+            //var vip = new VIPTicket("Avengers", 250, true);
+            //var imax = new IMAXTicket("Avatar", 300, true);
+
+      
+            //cinema.AddTicket(standard);
+            //cinema.AddTicket(vip);
+            //cinema.AddTicket(imax);
+
+            //cinema.PrintAllTickets();
+
+            //cinema.CloseCinema();
+            //Console.WriteLine($"Total Tickets Created: {Ticket.GetTotalTickets()}");
+
+            #endregion
+
 
         }
     }
